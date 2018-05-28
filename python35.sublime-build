@@ -1,0 +1,5 @@
+{
+    "cmd": ["C:/Users/duoyi/AppData/Local/Programs/Python/Python35/python.exe", "$file"],
+    "selector": "source.python",
+    "file_regex": "^\\s*File \"(...*?)\", line ([0-9]*)"
+}

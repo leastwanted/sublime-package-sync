@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Compare Side-By-Side",
+		"ConvertToUTF8",
+		"Dracula Color Scheme",
+		"Git",
+		"Graphvizer",
+		"HexViewer",
+		"LuaJumpDefinition",
+		"MarkdownPreview",
+		"OpenGL Shading Language (GLSL)",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Sublimerge Pro",
+		"Terminal",
+		"Theme - Alpenglow",
+		"Theme - Hero",
+		"TortoiseSVN"
+	]
+}

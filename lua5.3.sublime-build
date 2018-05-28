@@ -1,0 +1,5 @@
+{  
+    "cmd": ["C:\\Softwares\\lua-5.3.4_Win64_bin\\lua.exe", "$file"],  
+    "file_regex": "^(?:lua:)?[\t ](...*?):([0-9]*):?([0-9]*)",  
+    "selector": "source.lua"  
+}  

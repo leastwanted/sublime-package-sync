@@ -1,0 +1,22 @@
+{
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		".tags",
+		".tags_sorted_by_file",
+		".gemtags",
+		"*.pyc",
+		"*.meta"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tabs_medium": true,
+	"tabs_padding_small": true,
+	"theme": "Alpenglow.sublime-theme",
+	"word_wrap": true
+}
