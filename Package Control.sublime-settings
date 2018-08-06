@@ -15,6 +15,7 @@
 		"Graphvizer",
 		"HexViewer",
 		"LuaJumpDefinition",
+		"MarkdownLivePreview",
 		"MarkdownPreview",
 		"OpenGL Shading Language (GLSL)",
 		"Package Control",
